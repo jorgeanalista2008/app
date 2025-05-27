@@ -1,0 +1,8 @@
+Ssay.1234##   clave bd   
+u646234231_ssaybd   usuario
+u646234231_ssay   nombre de base de datos
+
+
+156.67.65.108
+65002
+u646234231
